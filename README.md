@@ -1,4 +1,0 @@
-Demo
-====
-
-My first app
